@@ -1,3 +1,11 @@
-.App {
-  text-align: center;
+body {
+  background-color: #eaeaea;
+}
+
+.ui.fixed.menu {
+  background: linear-gradient(45deg, #F57468, #F1B5AF);
+}
+
+.ui.main.container {
+  margin-top: 7em;
 }
